@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 API Backend – Express.js + SQLite (`api`)
-- [] `npm install` fonctionne sans erreur
+- [x] `npm install` fonctionne sans erreur
 - [x] `npm start` lance bien le serveur sur le port 3000
 - [x] L’API répond bien sur `GET /iot` et/ou `POST /iot`
 - [x] Les données reçues sont affichées dans la console ou stockées
@@ -24,7 +24,7 @@
 ---
 
 ## 📡 Script IoT – Node.js (`iot`)
-- [] `npm install` fonctionne sans erreur
+- [x] `npm install` fonctionne sans erreur
 - [x] Le script se lance avec `node sendData.js`
 - [x] Le fichier `iot_devices.json` est utilisé pour simuler des données
 - [x] Les données envoyées sont bien au format JSON :

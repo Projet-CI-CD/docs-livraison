@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 API Backend – Express.js + SQLite (`api`)
-- [] `npm install` fonctionne sans erreur
+- *[] `npm install` fonctionne sans erreur
 - [] `npm start` lance bien le serveur sur le port 3000
 - [] L’API répond bien sur `GET /iot` et/ou `POST /iot`
 - [] Les données reçues sont affichées dans la console ou stockées

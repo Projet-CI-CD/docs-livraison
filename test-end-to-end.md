@@ -24,7 +24,7 @@ Ce document décrit la procédure de test manuelle du projet connecté, en inté
 1. Ouvre un terminal dans le dossier `api`
 2. Installe les dépendances :
     ```bash
-    npm instrall
+    npm install
     ````
 3. Lance l'API :
     ```bash

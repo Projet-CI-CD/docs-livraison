@@ -4,7 +4,7 @@
 
 ## 📁 Général
 - [x] Les trois dépôts (`iot`, `api`, `mobile`) sont accessibles
-- [] Chaque dépôt contient un `README.md` clair
+- [x] Chaque dépôt contient un `README.md` clair
 - [x] Les instructions d'installation et d'exécution sont présentes
 - [x] Les dépendances sont listées (`package.json`, `pubspec.yaml`, etc.)
 - [x] Fichiers `.gitignore` bien configurés

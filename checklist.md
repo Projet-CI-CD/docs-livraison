@@ -5,8 +5,8 @@
 ## 📁 Général
 - [x] Les trois dépôts (`iot`, `api`, `mobile`) sont accessibles
 - [] Chaque dépôt contient un `README.md` clair
-- [] Les instructions d'installation et d'exécution sont présentes
-- [] Les dépendances sont listées (`package.json`, `pubspec.yaml`, etc.)
+- [x] Les instructions d'installation et d'exécution sont présentes
+- [x] Les dépendances sont listées (`package.json`, `pubspec.yaml`, etc.)
 - [x] Fichiers `.gitignore` bien configurés
 - [x] Les URL d'API sont facilement modifiables dans le code
 - [x] Le système peut être lancé et testé sur un même réseau local
@@ -18,7 +18,7 @@
 - [x] `npm start` lance bien le serveur sur le port 3000
 - [x] L’API répond bien sur `GET /iot` et/ou `POST /iot`
 - [x] Les données reçues sont affichées dans la console ou stockées
-- [] Le backend gère les erreurs de manière propre
+- [x] Le backend gère les erreurs de manière propre
 - [x] La base SQLite est fonctionnelle et persistante
 
 ---

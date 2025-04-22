@@ -34,7 +34,7 @@ Ce dépôt `docs` fournit :
 ### 3. 🔧 Backend API (`api`)
 - **Langage/Technologie** : JavaScript (Node.js avec Express.js) + SQLite
 - **Fonction** : Reçoit les données JSON envoyées par le script IoT, les stocke dans une base SQLite, et les rend disponibles à l’application mobile.
-- **Endpoint principal** : `POST /iot` (pour recevoir), `GET /iot` (pour consulter les 20 derniere) et `GET /iot?last_id=60` (pour consulter les 20 precedents le last_id donc du 59 au 40)
+- **Endpoint principal** : `POST /iot` (pour recevoir), `GET /iot` (pour consulter les 20 derniers) et `GET /iot?last_id=60` (pour consulter les 20 precedents le last_id donc du 59 au 40)
 - **Lien** : [github.com/Projet-CI-CD/API](https://github.com/Projet-CI-CD/API)
 
 ---

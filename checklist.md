@@ -30,6 +30,9 @@
 - [] Les données envoyées sont bien au format JSON :
   ```json
   {
-    "temperature": 22.5,
-    "humidity": 48.3
+    "device_id": "env_001",
+    "temperature": 21.5,
+    "humidity": 58,
+    "timestamp": "2025-04-22T14:00:00Z",
+    "type": "environmental"
   }

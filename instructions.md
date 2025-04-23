@@ -161,8 +161,19 @@ Ce document décrit la procédure de test manuelle du projet connecté, en inté
   
 ## 👨‍💻 Auteurs
 
+**Maxence COEUR**  
+Dev Mobile 
+
+**Loan FRANCOIS**  
+Dev Backend
+
+**Gael PIDOUX**  
+Dev Backend
+
+**Adelia Sajedeh FATHIPOURSASANSARA**  
+Dev IoT
+
 **Lenny COSTON**  
-DevOps – Coordination, tests et documentation  
-lenny.coston@ynov.com
+DevOps 
 
 
